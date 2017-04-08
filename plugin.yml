@@ -1,0 +1,4 @@
+name: SiloLaunch
+main: com.github.pocketkid2.silolaunch.SiloLaunchPlugin
+version: 1.3
+author: Pocketkid2
